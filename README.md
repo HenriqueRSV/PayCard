@@ -39,3 +39,7 @@ Pay Card is a component that simulates the credit card filling form, where you c
 
 You can preview the project layout through [from this link](https://www.figma.com/file/gpqavL469k0pPUGOmAQEM9/Explorer-Lab-%2301/duplicate).
 
+## Deploy Project
+
+see the project [here](https://pay-card-five.vercel.app).
+
